@@ -1,0 +1,19 @@
+#nameInput {
+    display: block;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+#errorMessage {
+    color: red;
+    margin-top: 10px;
+}
+.first_screen {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.first_screen__button {
+    padding: 15px;
+}
